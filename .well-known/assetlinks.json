@@ -1,10 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.lerrh.firejump",
       "sha256_cert_fingerprints": [
+        "B3:8C:65:E4:A8:71:D9:F4:84:C8:09:F6:63:6D:FB:87:BF:CE:C6:08:D4:14:DC:7E:8B:F2:3B:2C:5B:8A:77:0A",
         "2A:1A:2F:2B:B3:F8:DE:56:38:56:89:EB:B8:A6:30:56:A6:F9:73:8B:A1:96:4F:6E:E2:98:0A:4D:84:CE:D9:5E"
       ]
     }
